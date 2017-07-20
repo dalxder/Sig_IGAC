@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
-https://dalxder.github.io/Sig_IGAC/
-You can use the [editor on GitHub](https://github.com/dalxder/Sig_IGAC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Principal](https://dalxder.github.io/Sig_IGAC/)
+[editor on GitHub](https://github.com/dalxder/Sig_IGAC/edit/master/README.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
