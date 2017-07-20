@@ -6,7 +6,7 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
     $stateProvider
         .state("PageTab", {
             url: "/PageTab",
-            templateUrl: "nav.html"
+            templateUrl: "index.html"
         })
         .state("PageTab.Page1", {
             url: "/Page1",
